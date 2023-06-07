@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.float-child {
+  width: 50%;
+  float: left;
+}
+.float-sub-child {
+  width: 25%;
+  margin-top: 20;
+  float: left;
+}
+.float-sub-child2 {
+  width: 100%;
+  float: right;
+}
